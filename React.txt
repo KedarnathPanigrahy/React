@@ -1,0 +1,47 @@
+React Application:
+https://lumen.percipio.com/courses/1630496b-c254-432d-9fa0-3f0e83a808a7/videos/c3382d5c-2927-44e9-ba19-9e1a7e6ee898
+https://lumen.percipio.com/courses/9f523277-52ef-4cbc-9d08-6a19cb9f0de1/videos/81f9ef64-9467-4785-b07b-6f44e8015e13
+Sublime text editor
+
+Virtual DOM
+JSX - JavaScript XML
+Babel Compiler - Converts JSX into Pure JavaScript.
+
+npm init
+npm install express body-parser react react-dom style-loader css-loader mongoose @hapi/joi
+npm install --save-dev nodemon @babel/core @babel/preset-env @babel/preset-react babel-loader html-webpack-plugin webpack webpack-cli
+
+Creating React Application:
+npm install -g create-react-app
+create-react-app app-client
+npm install --save react-router-dom
+
+
+
+
+
+npm install http-server -g
+http-server .
+
+Creating React Application In local:
+npm install -g create-react-app
+
+Move to the required folder where React application needs to create
+npx create-react-app first-react-app
+
+npm start
+    Starts the development server.
+
+npm run build
+	Bundles the app into static files for production.
+
+npm test
+	Starts the test runner.
+
+npm run eject
+	Removes this tool and copies build dependencies, configuration files
+	and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+cd first-react-app
+npm start
